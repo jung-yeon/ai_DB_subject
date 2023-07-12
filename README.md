@@ -7,9 +7,9 @@
 - #### 팀장 &#128526; <a href="https://github.com/kbh2705"> 강병화</br>
 - #### 팀원
   - &#128103; <a href="https://github.com/jung-yeon"> 이정연</br>
-  - &#128103; <a href="https://github.com/yoonhhmm)"> 윤혜민</br>
-  - &#128104; <a href="https://github.com/kbh2705"> 최강인</br>
-  - &#128104; <a href="https://github.com/kbh2705"> 임한별</br>
+  - &#128103; <a href="https://github.com/yoonhhmm"> 윤혜민</br>
+  - &#128104; <a href="https://github.com/cki3113">최강인</br>
+  - &#128104; <a href="https://github.com/seame12">임한별</br>
 
 ## &#128204; ERD
 <hr width="300px"/>
