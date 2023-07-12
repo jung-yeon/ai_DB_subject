@@ -16,3 +16,4 @@
 
 ![erd](https://github.com/jung-yeon/ai_DB_subject/assets/77679326/e911475e-d513-4b7f-a657-060e776fd9fc)
 
+## 가능가능
